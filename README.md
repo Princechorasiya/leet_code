@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
+| [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
