@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Princechorasiya/leet_code/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Princechorasiya/leet_code/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Princechorasiya/leet_code/tree/master/0231-power-of-two) |
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Princechorasiya/leet_code/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Princechorasiya/leet_code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
