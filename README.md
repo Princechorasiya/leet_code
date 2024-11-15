@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Princechorasiya/leet_code/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Princechorasiya/leet_code/tree/master/0260-single-number-iii) |
+| [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Princechorasiya/leet_code/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Princechorasiya/leet_code/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
