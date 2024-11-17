@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Princechorasiya/leet_code/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Princechorasiya/leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 ## Design
@@ -100,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
