@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/Princechorasiya/leet_code/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Princechorasiya/leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Princechorasiya/leet_code/tree/master/2580-circular-sentence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Princechorasiya/leet_code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Princechorasiya/leet_code/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Princechorasiya/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
