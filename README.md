@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Princechorasiya/leet_code/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Princechorasiya/leet_code/tree/master/0204-count-primes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0943-sum-of-subarray-minimums](https://github.com/Princechorasiya/leet_code/tree/master/0943-sum-of-subarray-minimums) |
 ## Trie
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Princechorasiya/leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Princechorasiya/leet_code/tree/master/0943-sum-of-subarray-minimums) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Princechorasiya/leet_code/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Princechorasiya/leet_code/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Princechorasiya/leet_code/tree/master/2227-sum-of-subarray-ranges) |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
