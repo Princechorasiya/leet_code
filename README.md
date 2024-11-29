@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Princechorasiya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Princechorasiya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Princechorasiya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
