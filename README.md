@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Princechorasiya/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Princechorasiya/leet_code/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Princechorasiya/leet_code/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Princechorasiya/leet_code/tree/master/0943-sum-of-subarray-minimums) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Princechorasiya/leet_code/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Princechorasiya/leet_code/tree/master/0085-maximal-rectangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
