@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/Princechorasiya/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Princechorasiya/leet_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Princechorasiya/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Princechorasiya/leet_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3394-minimum-array-end](https://github.com/Princechorasiya/leet_code/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Princechorasiya/leet_code/tree/master/0937-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Princechorasiya/leet_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
