@@ -8,37 +8,28 @@ class Solution {
   public:
     int totalElements(vector<int> &arr) {
         // code here
-        int l=0,r=0,n=arr.size();
-        int maxOnes=0;
-        unordered_map<int,int>mp;
-        while(r<n){
-            if(mp.size()<2){
-                mp[arr[r]]++;
-                maxOnes=max(maxOnes,r-l+1);
-                r++;
-            }else{
-                if(mp.size()==2){
-                    if(mp.count(arr[r])!=0){
-                        mp[arr[r]]++;
-                        maxOnes=max(maxOnes,r-l+1);
-                        r++;
-                    }else{
-                        //shrink 
-                        while(mp.size()==2){
-                            mp[arr[l]]--;
-                            
-                            if(mp[arr[l]]==0){
-                                mp.erase(arr[l]);
-                            }
-                            l++;
-                        }
-                        
+      int l = 0, maxi = 0;
+        int n = arr.size();
+        unordered_map<int, int> mp;
+    
+        for (int r = 0; r < n; r++) {
+            if (mp.count(arr[r]) == 0 && mp.size() == 2) {
+                int mink = -1, minV = INT_MAX;
+                for (auto it = mp.begin(); it != mp.end(); ++it) {
+                    if (it->second < minV) {
+                        minV = it->second;
+                        mink = it->first;
                     }
                 }
+                mp.erase(mink);
+                l = minV + 1;
             }
-            
+    
+            mp[arr[r]] = r;
+            maxi = max(maxi, r - l + 1);
         }
-        return maxOnes;
+        
+        return maxi;
     }
 };
 
