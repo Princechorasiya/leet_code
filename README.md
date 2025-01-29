@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Princechorasiya/leet_code/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Princechorasiya/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Princechorasiya/leet_code/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Princechorasiya/leet_code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Princechorasiya/leet_code/tree/master/2580-circular-sentence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princechorasiya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Princechorasiya/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princechorasiya/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Princechorasiya/leet_code/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Princechorasiya/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Princechorasiya/leet_code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
