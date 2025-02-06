@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Princechorasiya/leet_code/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Princechorasiya/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Princechorasiya/leet_code/tree/master/0943-sum-of-subarray-minimums) |
+| [1364-tuple-with-same-product](https://github.com/Princechorasiya/leet_code/tree/master/1364-tuple-with-same-product) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Princechorasiya/leet_code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/Princechorasiya/leet_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2227-sum-of-subarray-ranges](https://github.com/Princechorasiya/leet_code/tree/master/2227-sum-of-subarray-ranges) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Princechorasiya/leet_code/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/Princechorasiya/leet_code/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Princechorasiya/leet_code/tree/master/0424-longest-repeating-character-replacement) |
+| [1364-tuple-with-same-product](https://github.com/Princechorasiya/leet_code/tree/master/1364-tuple-with-same-product) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Princechorasiya/leet_code/tree/master/1364-tuple-with-same-product) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Princechorasiya/leet_code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
 |  |
